@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deraclassic
-- 👀 I’m interested in Java
+- 👀 I’m interested in building software solutions with Java
 - 🌱 I’m currently learning React.Js
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me ...

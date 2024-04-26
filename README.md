@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.Js
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me ...chiderauzoigwe2@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I play scrabble too
 
 <!---

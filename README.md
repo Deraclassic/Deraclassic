@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deraclassic
 - 👀 I’m interested in building software solutions with Java
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me: chiderauzoigwe2@gmail.com
 - 😄 Pronouns: ...She/Her
